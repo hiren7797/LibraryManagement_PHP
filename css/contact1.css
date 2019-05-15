@@ -1,0 +1,67 @@
+
+#main
+{
+  position:relative;
+  left:360px;
+  top:250px;  
+}
+#contactm
+{
+	position:absolute;
+	left:545px;
+	top:45px;   
+	font-family:Arial,Helvetica,sans-serif;
+    font-size:30px;
+    font-weight:bold;	
+	
+}
+#dmsg
+{
+	position:absolute;
+	left:440px;
+	top:90px;
+	color:gray;
+	font-size:18px;
+}
+#dmsg1
+{
+	
+	position:absolute;
+	padding-left:460px;
+	padding-top:100px;
+    color:gray;
+	font-size:18px;
+	}
+#dmsg2
+{
+	
+	position:absolute;
+	padding-left:520px;
+	padding-top:120px;
+	color:gray;
+	font-size:18px;
+
+	}
+body
+{
+	background-image:url("images/myimage.jpg");
+	}
+	
+#mys
+{
+
+   color:white;
+   background-color:black;
+   font-size:16px;
+   font-weight:bold;
+   }
+#button
+{
+	position:relative;
+	left:5px;
+	background-color:red;
+	font-size:14px;
+	font-weight:bold;
+	color:white;
+	top:10px;
+}

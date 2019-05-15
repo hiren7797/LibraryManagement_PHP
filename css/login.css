@@ -1,0 +1,257 @@
+#m1 {
+	margin-top:30px;
+	position:relative;
+	padding-top:6px;
+	width:400px;
+	height:40px;
+	border-radius:10px;
+	background-color:#0097D6;
+	display:block;
+	margin-bottom:10px;
+	color:#FAFBFE;
+	font-size:20px;
+	border:2px solid black;
+}
+#m2 {
+	
+	position:relative;
+	padding-top:6px;
+	width:400px;
+	height:40px;
+	border-radius:10px;
+	background-color:#0097D6;
+	display:block;
+	margin-bottom:10px;
+	color:#FAFBFE;
+	font-size:20px;
+	border:2px solid black;
+}
+#body {
+	background-image:url("css/ee.jpg");
+	background-position:left top;
+	background-repeat:no-repeat;
+}
+
+#login {
+	margin-top:50px;
+	vertical-align:center;
+	width:400px;
+	height:500px;
+
+	
+}
+#icon {
+	position:absolute;
+	top:32px;
+	left:48%;
+	font-size:70px;
+	color:black;
+	opacity:0.8;
+}
+#n1 {
+	color:white;
+	font-size:50px;
+	opacity:1.0;
+	margin-left:20px;
+	margin-top:50px;
+	margin-bottom:-15px;
+}
+#n3 {
+	color:white;
+	font-size:20px;
+	opacity:1.0;
+	margin-left:20px;
+	margin-bottom:-5px;
+}
+
+#l1 {
+	width:350px;
+	height:30px;
+	margin-left:10px;
+	margin-bottom:20px;
+	border-radius:5px;
+}
+
+#l2 {
+	color:black;
+	width:350px;
+	height:30px;
+	margin-left:10px;
+	margin-bottom:20px;
+	border-radius:5px;
+}
+.loginBtn {
+  box-sizing: border-box;
+  position: relative;
+  margin: 0.2em;
+  padding: 0 15px 0 46px;
+  border: none;
+  text-align: left;
+  line-height: 34px;
+  white-space: nowrap;
+  border-radius: 0.2em;
+  font-size: 16px;
+  color: #FFF;
+}
+.loginBtn:before {
+  content: "";
+  box-sizing: border-box;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 34px;
+  height: 100%;
+}
+#login nav a{
+	  color:white;
+	  font-size:20px;
+	  padding:15px;
+	  text-decoration:none;
+}
+
+.loginBtn--facebook {
+  background-color: #4C69BA;
+  background-image: linear-gradient(#4C69BA, #3B55A0);
+  text-shadow: 0 -1px 0 #354C8C;
+	margin-left:20px;
+	margin-bottom:20px;
+	width:350px;
+ }
+.loginBtn--facebook:before {
+  border-right: #364e92 1px solid;
+  background: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/14082/icon_facebook.png') 6px 6px no-repeat;
+}
+.loginBtn--facebook:hover,
+.loginBtn--facebook:focus {
+  background-color: #5B7BD5;
+  background-image: linear-gradient(#5B7BD5, #4864B1);
+}
+
+.loginBtn--google {
+	margin-left:20px;
+	width:350px;
+	background: #DD4B39;
+}
+.loginBtn--google:before {
+  border-right: #BB3F30 1px solid;
+  background: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/14082/icon_google.png') 6px 6px no-repeat;
+}
+.loginBtn--google:hover,
+.loginBtn--google:focus {
+  background: #E74B37;
+}
+
+#signup {
+	margin:auto;
+	margin-top:30px;
+	vertical-align:center;
+	width:400px;
+	height:550px;
+	display:none;
+	
+}
+#icon {
+	margin-left:20px;
+}
+#n1 {
+	color:white;
+	font-size:50px;
+	opacity:1.0;
+	padding-top:20px;
+	padding-left:10px;
+	margin-top:30px;
+	margin-bottom:-25px;
+    text-shadow:4px 4px black;
+	}
+#l3 {
+	background-color:white;
+	margin-left:10px;
+	width:300px;
+	height:30px;
+	margin-bottom:20px;
+	border-radius:5px;
+	font-weight:bold;
+	padding-left:5px;
+}
+
+	#icon {
+    padding-left:5px;		
+ 	display:inline;
+	font-size:20px;
+	color:white;
+	opacity:0.8;
+    padding-top:5px;
+	}
+#n2 {
+	color:white;
+	width:100px;
+	height:30px;
+	margin-bottom:20px;
+	border-radius:5px;
+	margin-left:0px;
+	text-shadow:1px 1px black;
+	}	
+#signup nav a{
+	  color:white;
+	  font-size:20px;
+	  padding:15px;
+	  text-decoration:none;
+	  text-shadow:2px 2px black;
+}
+#signup nav a:hover
+{
+	  background-color:black;
+	  opacity:0.4;
+	  text-decoration:underline;
+	  text-shadow:none;
+}
+#e1 {
+	position:fixed;
+	top:340px;
+	left:665px;
+	text-align:center;
+	font-size:15px;
+	padding-top:10px;
+	font-weight:bold;
+	background-color:black;
+	color:red;
+	opacity:0.9;
+	width:200px;
+	height:30px;
+	border-radius:5px;
+}
+#e2 {
+	position:fixed;
+	top:340px;
+	left:665px;
+	text-align:center;
+	font-size:15px;
+	font-weight:bold;
+	padding-top:10px;
+	background-color:black;
+	color:red;
+	opacity:0.9;
+	width:200px;
+	height:30px;
+	border-radius:5px;
+}
+#e3 {
+	position:fixed;
+	top:400px;
+	left:665px;
+	text-align:center;
+	font-size:15px;
+	font-weight:bold;
+	padding-top:10px;
+	background-color:black;
+	color:red;
+	opacity:0.9;
+	width:200px;
+	height:30px;
+	border-radius:5px;
+}
+#capcha {
+	width:30px;
+	height:30px;
+	margin-bottom:10px;
+}

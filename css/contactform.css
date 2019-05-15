@@ -1,0 +1,23 @@
+#main
+{
+	position:relative;
+	margin-left:380px;
+	margin-top:220px;
+	
+}
+#mys
+{
+		font-size:15px;
+	   font-weight:bold;
+}
+#rc
+{
+	color:red;
+}
+#contact
+{
+   position:absolute;
+   left:100px;
+   top:100px;
+}
+      

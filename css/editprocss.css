@@ -1,0 +1,85 @@
+#proann
+{
+	font-size:30px;
+	color:#800080;
+	margin-left:15px;
+	font-weight:bold;
+}
+#proinf
+{
+	margin-top:25px;
+	font-weight:bold;
+	color:#800080;
+	font-size:20px;
+    margin-left:15px;
+	}
+#u_n
+{
+	color:gray;
+	margin-left:15px;
+}
+#mys
+{
+	margin-left:15px;
+	color:gray;
+}
+#f_n
+{
+	color:gray;
+	margin-left:15px;
+	margin-top:14px;
+}
+#f_n1
+{
+	margin-left:15px;
+}
+#l_n
+{
+	color:gray;
+	margin-left:15px;
+	margin-top:14px;
+}
+#email
+{
+	color:gray;
+	margin-left:15px;
+	margin-top:14px;
+}
+#p_n
+{
+	color:gray;
+	margin-left:15px;
+	margin-top:14px;
+}
+#passinfo
+{
+	font-weight:bold;
+	color:#800080;
+	font-size:20px;
+    margin-left:15px;
+	margin-top:30px;
+}
+#passwrd
+{
+	color:gray;
+	margin-left:15px;
+	margin-top:14px;
+}
+#repeatpasswrd
+{
+	color:gray;
+	margin-left:15px;
+	margin-top:14px;
+}
+#button
+{
+	
+	margin-top:50px;
+	margin-left:18px;
+}
+#bttn
+{
+	color:white;
+	background-color:#800080;
+	font-weight:bold;
+}
